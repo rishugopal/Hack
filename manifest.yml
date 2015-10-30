@@ -2,5 +2,5 @@
 applications:
 -name:AvensisHackathon
   memory:512M 
-  host:AvensisHackathonHost 
-  path:target/AvensisHackathon.war
+  host: AvensisHackathonHost 
+  path: target/AvensisHackathon.war
