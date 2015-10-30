@@ -6,7 +6,7 @@ deploy:
    username: rishugopal@gmail.com
    password: gopal1994
    api: https://api.run.pivotal.io
-   organization: HackathonInitio
+   organization: Heckathon-org
    space: development
    skip_cleanup: true
    
